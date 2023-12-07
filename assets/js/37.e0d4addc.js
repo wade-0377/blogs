@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[37],{449:function(t,n,o){"use strict";o.r(n);var s={data:()=>({buttonName:"点击按钮"}),methods:{change(){console.log(111)}}},e=o(2),a=Object(e.a)(s,(function(){var t=this._self._c;return t("div",[t("button",{on:{click:this.change}},[this._v(this._s(this.buttonName))])])}),[],!1,null,null,null);n.default=a.exports}}]);
